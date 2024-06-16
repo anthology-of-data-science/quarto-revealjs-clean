@@ -17,6 +17,9 @@ date: last-modified
 
 ### This is a subtitle
 
+
+#### This is a h4 heading
+
 Here we have some text that may run over several lines of the slide frame,
 depending on how long it is.
 
@@ -62,10 +65,10 @@ with more examples for integrating code, tables, figures, etc.
 
 ### A minimalist and elegant presentation theme
 
-The Quarto reveal.js clean theme aims to be a minimalist and elegant presention
+- The Quarto reveal.js clean theme aims to be a minimalist and elegant presention
 theme. Here are some options to get you started:
 
-Add the theme to an existing project.
+- Add the theme to an existing project.
 
 ```{.bash}
 quarto install extension grantmcdermott/quarto-revealjs-clean
